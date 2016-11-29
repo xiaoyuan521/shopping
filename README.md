@@ -14,3 +14,6 @@ http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
 # 纯净cake php下载地址
 https://github.com/cakephp/cakephp/tags
+
+
+使用之前需要配置xampp然后把工程放在 C:\xampp\htdocs 目录下面
